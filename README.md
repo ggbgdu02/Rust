@@ -11,3 +11,7 @@ variables
 shadowing
 
 https://rust-book.cs.brown.edu/ch03-01-variables-and-mutability.html
+
+functions
+
+https://rust-book.cs.brown.edu/ch03-03-how-functions-work.html
