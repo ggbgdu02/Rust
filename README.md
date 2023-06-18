@@ -20,3 +20,7 @@ branches
 loops
 
 https://rust-book.cs.brown.edu/ch03-05-control-flow.html
+
+Guessing game
+
+https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
