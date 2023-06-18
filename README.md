@@ -15,3 +15,7 @@ https://rust-book.cs.brown.edu/ch03-01-variables-and-mutability.html
 functions
 
 https://rust-book.cs.brown.edu/ch03-03-how-functions-work.html
+
+branches
+
+https://rust-book.cs.brown.edu/ch03-05-control-flow.html
